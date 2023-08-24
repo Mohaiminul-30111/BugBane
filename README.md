@@ -1,1 +1,1 @@
-BugBane is a group where git related work will be submitted and also practiced here.
+![Logo](https://png.pngtree.com/png-vector/20190412/ourmid/pngtree-mind-pixel-logo-designs-png-image_934202.jpg)
